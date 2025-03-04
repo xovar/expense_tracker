@@ -1,11 +1,11 @@
 import React from 'react';
 
-function App() {
+function Income() {
   return (
     <div>
-      App
+      
     </div>
   );
 }
 
-export default App;
+export default Income;
